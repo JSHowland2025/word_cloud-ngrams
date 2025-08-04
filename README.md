@@ -84,4 +84,4 @@ Open the local URL printed by Streamlit in your browser.
 
 ## License
 
-MIT (replace with your preferred license).
+MIT
